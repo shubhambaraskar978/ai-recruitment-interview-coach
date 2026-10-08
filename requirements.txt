@@ -1,0 +1,8 @@
+streamlit
+openai
+python-dotenv
+PyMuPDF
+fastapi
+uvicorn[standard]
+bcrypt>=4.2
+PyJWT>=2.10
